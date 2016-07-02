@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="13433075019033"
+    token="-7603579701455124935" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="D:\Compressed\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="12957131518080" >
+        <artifact
+            location="D:\Compressed\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\outputs\apk\wikitude-sdk-samples-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="13433075019033" >
+        <artifact
+            location="D:\Compressed\WikitudeSDK_Android_5-1-4_2016-03-14_14-50-48\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
